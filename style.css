@@ -1,0 +1,29 @@
+body {
+    font-family: 'Source Serif Pro', serif;
+}
+h1 {
+    font-size: 50px;
+}
+.one{
+    color: darkturquoise;
+}
+section {
+    display: flex;
+}
+.two{
+    width: 60%;
+    padding-left:5%;
+}
+.two img {
+    width:60%;
+    padding-left:15%;
+}
+.three{
+      text-decoration:none;
+      background-image: linear-gradient(skyblue
+      ,darkturquoise);
+      padding:10px 20px;
+      border-radius:5px;
+      color:black;
+      font-weight:700;
+}

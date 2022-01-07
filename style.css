@@ -37,4 +37,40 @@ section {
     background-position:right  ;
     
     }
+    .ok{ 
+        padding-right: 20%;
+    
+    }
+ .border {
+     width: 50%;
+     padding-right: 10%;
+     padding-left:50px ;
+     margin: left 5%;
+     box-shadow: 10px 10px 50px grey;
+   margin-right: 5%;
+   margin-left: 5%;
+   border-radius: 10px;
+   border-left:10px solid green  ;
+
+    
+ }
  
+ .ex-area{
+     background-image: url(images/exp-bg.png);
+     background-repeat: no-repeat;
+     background-position: left;
+ }
+    
+ #wb {
+     border-left:7px solid;
+     border-image:linear-gradient(rgb(19, 51, 192)
+     rgb(34, 152, 182)) ;
+     border-image-slice:1;
+     
+ }
+     #kb {
+         border-image-slice: 1;
+         border-image: linear-gradient(tomato,red);
+         border-left:8px solid;
+     }
+     .nine{ text-align: center;}
